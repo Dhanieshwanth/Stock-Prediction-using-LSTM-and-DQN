@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+pandas
+matplotlib
+stable-baselines3
+gymnasium
+yfinance
+streamlit
